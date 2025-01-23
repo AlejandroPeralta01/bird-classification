@@ -1,0 +1,5 @@
+duckduckgo-search 
+fastcore
+fastdownload 
+fastai 
+Pillow
